@@ -29,10 +29,6 @@ Once this has been completed, you are ready to use the application, so open up t
 
 You will then be informed that the program has started, and will then be given prompts and can select from various options the information you would like to request or modify.
 
-Here is an example of the application from the CLI:
-
-A full video walkthrough can be found _____.
-
 # Credits
 
 Collaborators include the instructor, TAs, and fellow classmates of the UCF Coding Bootcamp (Spring 2022).
